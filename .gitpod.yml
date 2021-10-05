@@ -1,1 +1,2 @@
-image: hyperreality/cryptohack:latest
+image: 
+  file: Dockerfile
